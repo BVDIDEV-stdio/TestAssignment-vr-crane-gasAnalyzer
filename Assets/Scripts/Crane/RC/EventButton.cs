@@ -16,20 +16,20 @@ public class EventButton : MonoBehaviour
     /// - assign that child button obj to the field "ButtonObj"
     /// - button mesh will be lookin'good if it has MaterialChanger component (better player feedback)
     /// </summary>
-    
+
 
 
 
 
     [Header("Visuals")]
     public Transform ButtonObj;
-    private Vector3 buttonOriginPos;
+    protected Vector3 buttonOriginPos;
 
     [Tooltip("on button press it moves in LOCAL axes by values assigned")]
     public Vector3 buttonDownOffset;
 
 
-    private HashSet<ColliderButtonEventData> pressingEvents = new HashSet<ColliderButtonEventData>();
+    protected HashSet<ColliderButtonEventData> pressingEvents = new HashSet<ColliderButtonEventData>();
     public ColliderButtonEventData.InputButton m_activeButton = ColliderButtonEventData.InputButton.Trigger;
 
     // Core logic
@@ -48,28 +48,28 @@ public class EventButton : MonoBehaviour
     }
 
     // - Visuals & Feedback
-    void ApplyButtonOffset() => ButtonObj.localPosition = buttonOriginPos + buttonDownOffset;
-    void ResetButtonPos() => ButtonObj.localPosition = buttonOriginPos;
+    protected void ApplyButtonOffset() => ButtonObj.localPosition = buttonOriginPos + buttonDownOffset;
+    protected void ResetButtonPos() => ButtonObj.localPosition = buttonOriginPos;
 
     // -Utilitary
 
     // Unity lifecycle
-    void Start()
+    protected virtual void Start()
     {
         buttonOriginPos = ButtonObj.localPosition;
     }
 
 
     // Interfaces
-    public void OnColliderEventClick(ColliderButtonEventData eventData)
+    public virtual void OnColliderEventClick(ColliderButtonEventData eventData)
     {
         if (pressingEvents.Contains(eventData) && pressingEvents.Count == 1)
         {
-            
+
         }
     }
-    
-    public void OnColliderEventPressEnter(ColliderButtonEventData eventData)
+
+    public virtual void OnColliderEventPressEnter(ColliderButtonEventData eventData)
     {
         Debug.Log($"PressEnter: {eventData.button} on {gameObject.name}");
         if (eventData.button == m_activeButton && eventData.clickingHandlers.Contains(gameObject) && pressingEvents.Add(eventData) && pressingEvents.Count == 1)
@@ -78,7 +78,7 @@ public class EventButton : MonoBehaviour
         }
     }
 
-    public void OnColliderEventPressExit(ColliderButtonEventData eventData)
+    public virtual void OnColliderEventPressExit(ColliderButtonEventData eventData)
     {
         Debug.Log($"PressExit: {eventData.button} on {gameObject.name}");
         if (pressingEvents.Remove(eventData) && pressingEvents.Count == 0)
@@ -86,5 +86,6 @@ public class EventButton : MonoBehaviour
             OnButtonReleased();
         }
     }
-
 }
+
+
