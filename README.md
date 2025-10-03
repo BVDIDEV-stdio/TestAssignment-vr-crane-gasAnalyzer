@@ -20,3 +20,16 @@ IColliderEventClickHandler,
 IColliderEventPressEnterHandler, 
 IColliderEventPressExitHandler
 ```
+These above made possible processing the logic of "button things" from invoking on-clikc or on-release events to visual feedback, which is drowning the clicked button down.
+Let me show you:
+
+flowchart TD
+    A[Player presses VR controller trigger]
+    B[Button implements pressEnter interface]
+    C[OnButtonPressedEvent is invoked]
+    D[Player releases VR controller trigger]
+    E[Button implements pressExit interface]
+    F[OnButtonReleaseEvent is invoked]
+
+    A --> B --> C
+    D --> E --> F
