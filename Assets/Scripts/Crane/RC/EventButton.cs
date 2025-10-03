@@ -36,12 +36,12 @@ public class EventButton : MonoBehaviour
     [Header("Button State UnityEvents")]
     public UnityEvent ButtonPressedEvent;
     public UnityEvent ButtonReleasedEvent;
-    public void OnButtonPressed()
+    protected virtual void OnButtonPressed()
     {
         ButtonPressedEvent?.Invoke();
         ApplyButtonOffset();
     }
-    public void OnButtonReleased()
+    protected virtual void OnButtonReleased()
     {
         ButtonReleasedEvent?.Invoke();
         ResetButtonPos();

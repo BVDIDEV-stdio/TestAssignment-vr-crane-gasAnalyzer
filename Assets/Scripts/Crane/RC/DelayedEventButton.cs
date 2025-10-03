@@ -19,24 +19,35 @@ public class DelayedEventButton : EventButton
     {
         base.Start();
     }
-
-    public override void OnColliderEventPressEnter(ColliderButtonEventData eventData)
+    protected override void OnButtonPressed()
     {
-        if (eventData.button == m_activeButton && eventData.clickingHandlers.Contains(gameObject) && pressingEvents.Add(eventData) && pressingEvents.Count == 1)
-        {
-            HoldStartedEvent?.Invoke();
-            holdCoroutine = StartCoroutine(HoldTimer());
-        }
-
+        //base.OnButtonPressed();
+        ApplyButtonOffset();
+        HoldStartedEvent?.Invoke();
+        holdCoroutine = StartCoroutine(HoldTimer());
     }
-    public override void OnColliderEventPressExit(ColliderButtonEventData eventData)
+    protected override void OnButtonReleased()
     {
-
+        //base.OnButtonReleased();
+        ResetButtonPos();
         if (holdCoroutine != null)
         {
             StopCoroutine(holdCoroutine);
             holdCoroutine = null;
         }
+    }
+
+    public override void OnColliderEventPressEnter(ColliderButtonEventData eventData)
+    {
+        if (eventData.button == m_activeButton && eventData.clickingHandlers.Contains(gameObject) && pressingEvents.Add(eventData) && pressingEvents.Count == 1)
+        {
+            OnButtonPressed();
+        }
+
+    }
+    public override void OnColliderEventPressExit(ColliderButtonEventData eventData)
+    {
+        OnButtonReleased();
         base.OnColliderEventPressExit(eventData);
     }
 

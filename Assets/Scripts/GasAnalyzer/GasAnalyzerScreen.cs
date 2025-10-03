@@ -22,7 +22,6 @@ public class GasAnalyzerScreen : MonoBehaviour
 
     public void SwitchEnabledStatus()
     {
-        Debug.Log("kill me");
         if (showCoroutine != null)
             StopCoroutine(showCoroutine);
         showCoroutine = StartCoroutine(SwitchEnableStatusCoroutine(!isEnabled));
