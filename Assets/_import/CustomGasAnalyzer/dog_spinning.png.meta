@@ -1,0 +1,2758 @@
+fileFormatVersion: 2
+guid: 84684553597005b41b6b559ec723cfc3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dog_spinning_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7968
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13516201a9f10e47b8d87f8432dc062
+      internalID: 177243689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_1
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 7968
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170cf38f223ffc64197a3ae4f0e609f3
+      internalID: 1267050133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_2
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 7968
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34da2a70ddc3c884a8acdb829baa933e
+      internalID: -1062254687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_3
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 7968
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cc5dc999c8f674db2bff26a41f4368
+      internalID: -1332632040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_4
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 7968
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f934585fbc4014583dbf0b28f94f4d
+      internalID: 1849560426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_5
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 7968
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec8acaad8950a8449f0e52e860f4812
+      internalID: -1257917006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_6
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 7968
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e78c2e5fafee14c8091c23e5dd97f4
+      internalID: 2080418834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7470
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e72be9ec410c8469b124c4e90f75c4
+      internalID: -578092680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 7470
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9a61a0413167d4da5109f02ce271a3
+      internalID: -1460815367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_9
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 7470
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e8739c249ed9c44821a7e06c4c9e36
+      internalID: 1234569522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_10
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 7470
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424a37c72eae5e84b82fd7c81bd8f839
+      internalID: 100880768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_11
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 7470
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44f5581e8936a045aed32d7d8bde88d
+      internalID: -1115341420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_12
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 7470
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2403be56d945df644bad513f61377250
+      internalID: 32063477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_13
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 7470
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35385b0e46aa6ba4286a1ad5b4938a18
+      internalID: 644009978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6972
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d835809839ff5ec44953121bd97b5d1f
+      internalID: -69728333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 6972
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5b79cd5be07534ca72bf102053eed2
+      internalID: -922778170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_16
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 6972
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7a1c8ef4ff6f2418297684e2e90fab
+      internalID: 1482817606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_17
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 6972
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ff2fc9404d94c4ba066a6d7dce5e36
+      internalID: -1393676168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_18
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 6972
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3426f8bd527aa43a849f3a8ef536ed
+      internalID: 843337030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_19
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 6972
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ab49f4a51be12459ff913f250fad5c
+      internalID: 1344046073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_20
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 6972
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88eeaf0e3bca5a94a952ffc9f250ac31
+      internalID: 387557230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6474
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6cad414cf19624b97f34a659ab49b9
+      internalID: -1339727937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_22
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 6474
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5a75c5ac940184590ce09b7e9ffb38
+      internalID: -1583909538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_23
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 6474
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7364d2161985a4ea35492ff7651399
+      internalID: 1342632638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_24
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 6474
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d6b37aade2ac6458b9319d3049f13c
+      internalID: -2089881087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_25
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 6474
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aae3c727ee22854f9504a57964e6248
+      internalID: -2028105254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_26
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 6474
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06555f8d80230646b7981a7adfd2412
+      internalID: 1249376555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_27
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 6474
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e277de593498443afd7ed71c0003d7
+      internalID: -1588494307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5976
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e36829914d368479da406a630c9005
+      internalID: -1853807074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_29
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 5976
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892705b795d2b3941ab0113c47d9da0f
+      internalID: 1976243624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_30
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 5976
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014af491cae38c4408ef7be58e7a2313
+      internalID: 1928718260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_31
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 5976
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f279264e3a70ea49adbf65161d74b04
+      internalID: 755840488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_32
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 5976
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e69236c8e9a8ac469ba52e0c6cb7a9a
+      internalID: -2100100448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_33
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 5976
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc448b689289f448b3ee55e7cc4991f
+      internalID: -2036005600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_34
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 5976
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b106c076395d753489e703495a4c1c55
+      internalID: 389085393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5478
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13c925ee5bb5ee4c9539b154656f61f
+      internalID: -1865736848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_36
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 5478
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c9a658e3a36b247982cc043bc5c829
+      internalID: 348985789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_37
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 5478
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56dc961b0a510b409288145de5cc584
+      internalID: -674074040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_38
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 5478
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e771bf564fe5b54a90758c56ee65f82
+      internalID: 360307713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_39
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 5478
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e71973bad1604c4cbd4d1abc623ef46
+      internalID: -1331181721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_40
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 5478
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8675296e5c58c0e4c87c3ed98c226d82
+      internalID: -1424587863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_41
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 5478
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a382da262a88f408be7d8df0faec3b
+      internalID: -1123437510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4980
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b78a297cab0784e8ad8306f0564627
+      internalID: -168074742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 4980
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f468e634c5cf3994cacffc990abb01b7
+      internalID: 264661587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_44
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 4980
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb63515f962cd6489cc3a39ee398b6b
+      internalID: 1011611577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_45
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 4980
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5e8d53d9855844e9b58a355bc31527
+      internalID: -1824047243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_46
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 4980
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ebc76ecfe06934d8189ae7b906a3bf
+      internalID: 1584440095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_47
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 4980
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3212027ce2b6044bcf9215cca12ef6
+      internalID: 1569023726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_48
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 4980
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8037f0e3cc9fe4a8bcc665ccd899e1
+      internalID: 345864418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4482
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b410a965607d9a24f9b2277b1319dc28
+      internalID: 2135591571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_50
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 4482
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39827e823de9054a9321575ee4caabd
+      internalID: 2100463228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_51
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 4482
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b37bf5a50f712146825a94a38bee8f6
+      internalID: 459799216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_52
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 4482
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ec7f2c4462ac347b7afdfcae00d4b9
+      internalID: -1304412390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_53
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 4482
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5791f8a256280b94ebc31deb47d180e2
+      internalID: -1908952570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_54
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 4482
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10cea09f10b4c2499d388c3ec6125e0
+      internalID: 1014050232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_55
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 4482
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3966f18781d674bb9560a03d6059f8
+      internalID: -476519930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3984
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fc6d5df55eefe47b42cbba46009a3e
+      internalID: 1528902966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_57
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 3984
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29b02ebd04962d45af9fb6309fef0a3
+      internalID: 987310312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_58
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3984
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe17c6401676a4040b4c58780961d7ed
+      internalID: 641917682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_59
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 3984
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f4070be938e574da96a74400f7ea83
+      internalID: -622330286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_60
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3984
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9a1f2422d10f54f8b6fb5ad9153afe
+      internalID: -64813996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_61
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 3984
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dc1cd6c24c34a4c9f82312d3c25410
+      internalID: -2005619350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_62
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3984
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5276bf6c0cb6885488a875f77ccd771a
+      internalID: 1129601958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3486
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8ea074d1cbcf9459a24effda1e6b04
+      internalID: 1031356312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_64
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 3486
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df95f0eec96ec94789a9fe910b0d177
+      internalID: -810128394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_65
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3486
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfc85a30d3f6d841acd358db4f5ee4e
+      internalID: 1452206629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_66
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 3486
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863b6b7dfc738d94492dcccb8d81ef38
+      internalID: -500017189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_67
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3486
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10109314e97b74d45a6fa06a4e690298
+      internalID: 509132622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_68
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 3486
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc82c76670d17e6439301b748d9601ac
+      internalID: 149249571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_69
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3486
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f7e0109829b28408c591608b7b67cf
+      internalID: -851641815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2988
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d218e00f4bf0882418526d78624959d1
+      internalID: -1664626850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_71
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2988
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84c770ad6d8d474480d72bfbe0b5433
+      internalID: 1907755867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_72
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2988
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950c112addf52284b91bcbb59ff2c735
+      internalID: 841810046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_73
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2988
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48bc974c536bff46abab21453be43da
+      internalID: 93707265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_74
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2988
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a24a60d7bea95438e2bc732575abe4
+      internalID: -1057306454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_75
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 2988
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308e9419f71aa6d4db58d8511b4fe91d
+      internalID: 2075779504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_76
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2988
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ec555154b46634688d74456852247e
+      internalID: 370921113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2490
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccca0808e276424baa47d92a98e3f46
+      internalID: 1351279827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2490
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ab43adb78460b41867de998aa806b9
+      internalID: -40521800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_79
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2490
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673d293a4e6a5c048a23f9356683a5db
+      internalID: 190692564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_80
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2490
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f30922d7c59ea4aa968d30a687ad82
+      internalID: -1255906960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_81
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2490
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f87c5057472be049842a3782e94d85e
+      internalID: -1214668387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_82
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 2490
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9094a642a722c5b4ab91fd90c3231c0a
+      internalID: 1050361241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_83
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2490
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd2d9bdea4366d4d92fa84feace788e
+      internalID: -182205199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1992
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6394ccca7d44b44b89ef946d465c915
+      internalID: -500231988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1992
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe061c0998ab9e478bac0fd2e91fdb1
+      internalID: -450602820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_86
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1992
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd991c3b5cbb7143bd2658e58f30e26
+      internalID: 673059192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_87
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1992
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef816737107e6a45bc02e6df7b01084
+      internalID: 1460858786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_88
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1992
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6d6b1299048a74fa79b363f89bff7a
+      internalID: -839923596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_89
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1992
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f648f9fbc1f7564c8932d916b3e25bb
+      internalID: -153322026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_90
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1992
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5781755e93c65442b891673fb2d2b4d
+      internalID: -1118935831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1494
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53b25ee31cdc8a4fb7af46c8e9639eb
+      internalID: -107465041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_92
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1494
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96065482f5a81cb4f8b8c1a0a3955f3f
+      internalID: 1431884435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_93
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1494
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2aeca2070c5fe4197747f75d19c31a
+      internalID: 2134128302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_94
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1494
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf316a693a5d37e46b10fb1f91a27e9e
+      internalID: -242561909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_95
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1494
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe4099cabbc8de40a0fd39af73e855d
+      internalID: 1540403602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_96
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1494
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c996860e7b3808644821c46d8ba9ac90
+      internalID: -941996313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_97
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1494
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d2b21cfbf5bf14db5ab37325c68f72
+      internalID: 652013734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 996
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14a3774997a00e4fb9381a028a8833f
+      internalID: 1759555700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_99
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 996
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc89d8979617d14f85679da1994a1ab
+      internalID: -739117810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_100
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 996
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8e265e88ff73d47b57f86e20a4fce1
+      internalID: -90819601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_101
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 996
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ccfc82ac2224d4e8de34189007a009
+      internalID: -742979041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_102
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 996
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce882d702c421f4ab205610b33c97d8
+      internalID: 1271485789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_103
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 996
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1c86129cf9bb34ab50207860678f8f
+      internalID: 1042008292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_104
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 996
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3e65ac5fae4d940be37a34640b4be8
+      internalID: -1462142766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 498
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dbe11fe3995254a9bab56d5e53e230
+      internalID: 366593895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_106
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 498
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b009b7724be2141bc6ac046cb3e616
+      internalID: -260107671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_107
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 498
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88028ab2d540707419ebf26bb69ad74c
+      internalID: -107540277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_108
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 498
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757ff5031551e1a4ba59eb520ffcb95d
+      internalID: -586493323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_109
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 498
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a765a259da7f7940be737aa886aaa3a
+      internalID: 1428520781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_110
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 498
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009c576e396549e4e8517d2906319053
+      internalID: 948059589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_111
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 498
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51db7cec761b094aa01b7403431d7cd
+      internalID: -200923028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f3c0dfae406964a881d0bbc422ebcc
+      internalID: 890453212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_113
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae14d5fb87c15a4886a1bed1729b9dd
+      internalID: 378424854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_114
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b39fabe0034944d9d6d9cd9d03f8bd
+      internalID: 1019466960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_115
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7eac6484e1fd64780edba95168c2fb
+      internalID: 2090269624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_116
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e402f46ef1eb1554bb2c9af2104971e2
+      internalID: -71133673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_117
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 0
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2278cfefb22b588468a394e3aeb5dc13
+      internalID: -2124206091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dog_spinning_118
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 448
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a8f09b847df974db3a3df1af45199a
+      internalID: 361476365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9d707708a4d86094ea1f9966f850d5c9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      dog_spinning_0: 177243689
+      dog_spinning_1: 1267050133
+      dog_spinning_10: 100880768
+      dog_spinning_100: -90819601
+      dog_spinning_101: -742979041
+      dog_spinning_102: 1271485789
+      dog_spinning_103: 1042008292
+      dog_spinning_104: -1462142766
+      dog_spinning_105: 366593895
+      dog_spinning_106: -260107671
+      dog_spinning_107: -107540277
+      dog_spinning_108: -586493323
+      dog_spinning_109: 1428520781
+      dog_spinning_11: -1115341420
+      dog_spinning_110: 948059589
+      dog_spinning_111: -200923028
+      dog_spinning_112: 890453212
+      dog_spinning_113: 378424854
+      dog_spinning_114: 1019466960
+      dog_spinning_115: 2090269624
+      dog_spinning_116: -71133673
+      dog_spinning_117: -2124206091
+      dog_spinning_118: 361476365
+      dog_spinning_12: 32063477
+      dog_spinning_13: 644009978
+      dog_spinning_14: -69728333
+      dog_spinning_15: -922778170
+      dog_spinning_16: 1482817606
+      dog_spinning_17: -1393676168
+      dog_spinning_18: 843337030
+      dog_spinning_19: 1344046073
+      dog_spinning_2: -1062254687
+      dog_spinning_20: 387557230
+      dog_spinning_21: -1339727937
+      dog_spinning_22: -1583909538
+      dog_spinning_23: 1342632638
+      dog_spinning_24: -2089881087
+      dog_spinning_25: -2028105254
+      dog_spinning_26: 1249376555
+      dog_spinning_27: -1588494307
+      dog_spinning_28: -1853807074
+      dog_spinning_29: 1976243624
+      dog_spinning_3: -1332632040
+      dog_spinning_30: 1928718260
+      dog_spinning_31: 755840488
+      dog_spinning_32: -2100100448
+      dog_spinning_33: -2036005600
+      dog_spinning_34: 389085393
+      dog_spinning_35: -1865736848
+      dog_spinning_36: 348985789
+      dog_spinning_37: -674074040
+      dog_spinning_38: 360307713
+      dog_spinning_39: -1331181721
+      dog_spinning_4: 1849560426
+      dog_spinning_40: -1424587863
+      dog_spinning_41: -1123437510
+      dog_spinning_42: -168074742
+      dog_spinning_43: 264661587
+      dog_spinning_44: 1011611577
+      dog_spinning_45: -1824047243
+      dog_spinning_46: 1584440095
+      dog_spinning_47: 1569023726
+      dog_spinning_48: 345864418
+      dog_spinning_49: 2135591571
+      dog_spinning_5: -1257917006
+      dog_spinning_50: 2100463228
+      dog_spinning_51: 459799216
+      dog_spinning_52: -1304412390
+      dog_spinning_53: -1908952570
+      dog_spinning_54: 1014050232
+      dog_spinning_55: -476519930
+      dog_spinning_56: 1528902966
+      dog_spinning_57: 987310312
+      dog_spinning_58: 641917682
+      dog_spinning_59: -622330286
+      dog_spinning_6: 2080418834
+      dog_spinning_60: -64813996
+      dog_spinning_61: -2005619350
+      dog_spinning_62: 1129601958
+      dog_spinning_63: 1031356312
+      dog_spinning_64: -810128394
+      dog_spinning_65: 1452206629
+      dog_spinning_66: -500017189
+      dog_spinning_67: 509132622
+      dog_spinning_68: 149249571
+      dog_spinning_69: -851641815
+      dog_spinning_7: -578092680
+      dog_spinning_70: -1664626850
+      dog_spinning_71: 1907755867
+      dog_spinning_72: 841810046
+      dog_spinning_73: 93707265
+      dog_spinning_74: -1057306454
+      dog_spinning_75: 2075779504
+      dog_spinning_76: 370921113
+      dog_spinning_77: 1351279827
+      dog_spinning_78: -40521800
+      dog_spinning_79: 190692564
+      dog_spinning_8: -1460815367
+      dog_spinning_80: -1255906960
+      dog_spinning_81: -1214668387
+      dog_spinning_82: 1050361241
+      dog_spinning_83: -182205199
+      dog_spinning_84: -500231988
+      dog_spinning_85: -450602820
+      dog_spinning_86: 673059192
+      dog_spinning_87: 1460858786
+      dog_spinning_88: -839923596
+      dog_spinning_89: -153322026
+      dog_spinning_9: 1234569522
+      dog_spinning_90: -1118935831
+      dog_spinning_91: -107465041
+      dog_spinning_92: 1431884435
+      dog_spinning_93: 2134128302
+      dog_spinning_94: -242561909
+      dog_spinning_95: 1540403602
+      dog_spinning_96: -941996313
+      dog_spinning_97: 652013734
+      dog_spinning_98: 1759555700
+      dog_spinning_99: -739117810
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
