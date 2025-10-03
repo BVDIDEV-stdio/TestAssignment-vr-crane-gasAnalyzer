@@ -22,7 +22,7 @@ IColliderEventPressExitHandler
 ```
 These above made possible processing the logic of "button things" from invoking on-clikc or on-release events to visual feedback, which is drowning the clicked button down.
 Let me show you:
-
+```mermaid
 flowchart TD
     A[Player presses VR controller trigger]
     B[Button implements pressEnter interface]
@@ -33,3 +33,4 @@ flowchart TD
 
     A --> B --> C
     D --> E --> F
+```
