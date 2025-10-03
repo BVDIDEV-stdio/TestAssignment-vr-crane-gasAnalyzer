@@ -14,7 +14,7 @@ public class scrDebug : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKey(KeyCode.Alpha1))
+        if (Input.GetKeyUp(KeyCode.W))
             f.SwitchEnabledStatus();
 
     }

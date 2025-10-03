@@ -37,7 +37,7 @@ public class DangerFinder : MonoBehaviour
         if (nearestDanger != null)
         {
             distance = Vector3.Distance(transform.position, nearestDanger.position);
-            Debug.Log($"[{name}] Distance: {distance}");
+            //Debug.Log($"[{name}] Distance: {distance}");
         }
         else
         {
