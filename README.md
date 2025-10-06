@@ -38,3 +38,28 @@ flowchart TD
 Consists of:
 - **<ins>Danger.cs</ins>** - object looking for objects in scene tagged with *Danger* tag and calculating the distance to the closest.
 - **<ins>GasAnalyzerScreenUI</ins>** - its responsibility is gas analyzer screen UI. With **<ins>DelayedEventButton.cs</ins>** it is capable to turn off or turn on, switching its status on every button hold. Also when the status switches the screen plays "loading screen sequence" via a *Coroutine*.
+```mermaid
+flowchart LR
+    subgraph View [View - GasAnalyzerUI.cs]
+        A[UI Enabled via DelayedEventButton.cs]
+        B[Play Loading Screen]
+        C[DangerFinder Source]
+        D{Distance != -1?}
+        E[Show Danger Screen<br/>with distance]
+        F[Show Safe Screen]
+    end
+
+    subgraph Data [Data - DangerFinder.cs]
+        G[Calculate distance to<br/>dangerous objects]
+        H[Return distance or -1 if no Danger found]
+    end
+
+    A --> B
+    B --> C
+    C -- refs to --> G
+    G -- response --> H
+    C -- Main part --> D
+    D -- Yes --> E
+    D -- No --> F
+
+```
